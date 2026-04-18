@@ -1,0 +1,77 @@
+body{
+  display: block;
+  background-color: #6E1A37;
+  margin: 4px;
+  padding: 4px;
+}
+h1{
+  font-size: 5rem;
+  color: #F9B2D7;
+  font-family: "Caveat Brush",;
+font-weight: 700;
+font-style: normal;
+
+  margin-left: 40%;
+  margin-bottom: 7%;
+
+
+}
+.main{
+  display:block;
+  margin-left:7%;
+}
+
+.drum{
+  display: inline-block;
+margin-left: 13px;
+  border: 11px solid grey;
+border-radius: 6px;
+background-color: white;
+height: 170px;
+width: 170px;
+overflow: hidden;
+font-size: 6em;
+text-shadow: 4px black;
+
+ font-family: "Permanent Marker";
+}
+.one{
+  background-image: url(tom1.png);
+  color: #FFC193;
+}
+
+.two{
+  background-image: url(tom2.png);
+  color: #FFC193;
+}
+
+.three{
+  background-image: url(tom3.png);
+  color: #FFC193;
+}
+.four{
+  background-image: url(tom4.png);
+  color: #FFC193;
+}
+.five{
+  background-image: url(snare.png);
+  color: #5B7E3C;
+}
+.six{
+  background-image: url(crash.png);
+  color: #5B7E3C;
+}
+.seven{
+  background-image: url(kick.png);
+  color: #5B7E3C;
+}
+.instruction{
+  font-family: "Permanent Marker", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color: #E8F5BD;
+  font-size: 1.3em;
+  margin-left: 36%;
+  margin-top: 3%;
+  opacity: 50%;
+}
